@@ -8,7 +8,7 @@
 
 basedir=`dirname $0`
 
-components=common
+components="common docker"
 
 for c in $components; do
 	$basedir/${c}/setup.sh
