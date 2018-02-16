@@ -7,7 +7,6 @@
 #############################################################################
 
 here=`dirname $0`
-basedir=$here/..
 
 sudo systemctl stop docker
 

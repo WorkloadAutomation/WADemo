@@ -6,7 +6,7 @@
 # * Trademark of HCL Technologies Limited
 #############################################################################
 
-basedir=`dirname $0`
+export basedir=`dirname $0`
 
 components="common docker agents"
 

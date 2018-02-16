@@ -7,7 +7,6 @@
 #############################################################################
 
 here=`dirname $0`
-basedir=$here/..
 
 . ${basedir}/common/func.sh
 . ${WAHOME}/twa_env.sh
